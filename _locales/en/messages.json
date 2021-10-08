@@ -1,0 +1,25 @@
+{
+    "ext_name": {
+        "message": "MindfulPause",
+        "description": "Extension name"
+    },
+    "ext_desc": {
+        "message": "This is extension description",
+        "description": "This is description for the extension"
+    },
+    "reminder_title": {
+        "message": "Mindful Reminder"
+    },
+    "counter_msg": {
+        "message": "Take a breath: $COUNTER_VALUE$ seconds",
+        "placeholders": {
+            "COUNTER_VALUE": {
+                "content": "$1"
+            }
+        }
+    },
+    "dismiss": {
+        "message": "Dismiss",
+        "description": "Dimiss button text"
+    }
+}
