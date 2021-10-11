@@ -1,7 +1,6 @@
 # MindfulPause
 This is a Chrome extension that reminds you to take a 5-second break after you've spent an hour on social media sites.
 
-
 # FAQ
 
 ## 1. How can test the extension on my computer?
@@ -22,4 +21,10 @@ The philosolophy behind MindfulPause is that, instead of just kicking you off of
 Tools aren't good or bad inherently. Take a breath, and carry on.
 
 ## 4. Will this extension be on Chrome store eventually?
-I fully intend to. It takes time for Chrome to review and approve extensions, so I'm working on that.
+I fully intend to. It takes time for Chrome to review and approve extensions.
+
+## 5. What's your next step for this extension?
+There are many directions to go to. Sky is the limit. 🙂
+
+## 6. I want to help. How do I get involved?
+Golly! I'm flattered. Email me at `litaoxi001 at gmail dot com` and let's grab a (virtual) coffee.
